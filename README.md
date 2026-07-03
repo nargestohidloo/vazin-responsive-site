@@ -37,9 +37,9 @@ This project focuses on delivering a clean user interface, smooth responsiveness
 https://nargestohidloo.github.io/Vazin-responsive-website/
 ---
 
-
-## 👩‍💻 Developed by
+## ✨ Developed by
 
 **Narges Tohidloo**
+
 
 If you like this project, consider giving it a ⭐ to support my work.
