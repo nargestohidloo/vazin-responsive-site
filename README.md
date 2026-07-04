@@ -18,13 +18,8 @@ Designed with a clean user interface, smooth responsiveness, and an optimized us
 
 ---
 
-## 📸 Preview
-
-<p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/b29d5fc2-e771-4e55-9739-2884e01cfca5" alt="Vazin Homepage" />
-</p><p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/39866864-474d-44cb-a192-412720894076" alt="Vazin Responsive Design" />
-</p>
+## 📸 Project Preview 
+<img width="1917" height="913" alt="Screenshot 2026-07-04 020844" src="https://github.com/user-attachments/assets/b29d5fc2-e771-4e55-9739-2884e01cfca5" /> <img width="1919" height="913" alt="Screenshot 2026-07-04 020856" src="https://github.com/user-attachments/assets/39866864-474d-44cb-a192-412720894076" />
 
 ---
 
