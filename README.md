@@ -23,11 +23,11 @@ Designed with a clean user interface, smooth responsiveness, and an optimized us
 
 ---
 
-## 💻 Tech Stack
+🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,vscode" />
-</p>
+- HTML5
+- CSS3
+- Tailwind CSS
 
 ---
 
