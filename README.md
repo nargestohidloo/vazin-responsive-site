@@ -37,7 +37,7 @@ Designed with a clean user interface, smooth responsiveness, and an optimized us
 
 ---
 
-## 👩‍💻 Author
+## ✨ Developed by
 
 **Narges Tohidloo**
 
